@@ -1,2 +1,2 @@
 # Weather_App
-A Program to fetch weather report using a weatherapi.
+A Python program to fetch weather report using a weatherapi.
